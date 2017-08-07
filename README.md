@@ -1,4 +1,4 @@
-#Hangman Game in Java
+# Hangman Game in Java
 
 Command line hangman game built using Intellij. Concepts covered on Learn Java track, teamtreehouse.com
 
